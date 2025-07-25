@@ -1,0 +1,12 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Nikdi/source/repos/Chess/Content/../../../../Downloads/blackBishop.png","C:/Users/Nikdi/source/repos/Chess/Content/bin/DesktopGL/blackBishop.xnb","TextureProcessor","Texture2DContent",6323,443641,0,1782632
+"C:/Users/Nikdi/source/repos/Chess/Content/../../../../Downloads/blackKing.png","C:/Users/Nikdi/source/repos/Chess/Content/bin/DesktopGL/blackKing.xnb","TextureProcessor","Texture2DContent",14702,443641,0,0214108
+"C:/Users/Nikdi/source/repos/Chess/Content/../../../../Downloads/blackKnight.png","C:/Users/Nikdi/source/repos/Chess/Content/bin/DesktopGL/blackKnight.xnb","TextureProcessor","Texture2DContent",8886,443641,0,0174118
+"C:/Users/Nikdi/source/repos/Chess/Content/../../../../Downloads/blackPawn.png","C:/Users/Nikdi/source/repos/Chess/Content/bin/DesktopGL/blackPawn.xnb","TextureProcessor","Texture2DContent",3911,443641,0,0166682
+"C:/Users/Nikdi/source/repos/Chess/Content/../../../../Downloads/blackQueen.png","C:/Users/Nikdi/source/repos/Chess/Content/bin/DesktopGL/blackQueen.xnb","TextureProcessor","Texture2DContent",13746,443641,0,0190227
+"C:/Users/Nikdi/source/repos/Chess/Content/../../../../Downloads/blackRook.png","C:/Users/Nikdi/source/repos/Chess/Content/bin/DesktopGL/blackRook.xnb","TextureProcessor","Texture2DContent",3430,443641,0,0197141
+"C:/Users/Nikdi/source/repos/Chess/Content/../../../../Downloads/whiteBishop.png","C:/Users/Nikdi/source/repos/Chess/Content/bin/DesktopGL/whiteBishop.xnb","TextureProcessor","Texture2DContent",10690,443641,0,022059
+"C:/Users/Nikdi/source/repos/Chess/Content/../../../../Downloads/whiteKing.png","C:/Users/Nikdi/source/repos/Chess/Content/bin/DesktopGL/whiteKing.xnb","TextureProcessor","Texture2DContent",13421,443641,0,0182964
+"C:/Users/Nikdi/source/repos/Chess/Content/../../../../Downloads/whiteKnight.png","C:/Users/Nikdi/source/repos/Chess/Content/bin/DesktopGL/whiteKnight.xnb","TextureProcessor","Texture2DContent",11988,443641,0,024311
+"C:/Users/Nikdi/source/repos/Chess/Content/../../../../Downloads/whiteQueen.png","C:/Users/Nikdi/source/repos/Chess/Content/bin/DesktopGL/whiteQueen.xnb","TextureProcessor","Texture2DContent",16154,443641,0,0199272
+"C:/Users/Nikdi/source/repos/Chess/Content/../../../../Downloads/whiteRook.png","C:/Users/Nikdi/source/repos/Chess/Content/bin/DesktopGL/whiteRook.xnb","TextureProcessor","Texture2DContent",3466,443641,0,0187096

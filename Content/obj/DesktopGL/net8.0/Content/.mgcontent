@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Nikdi/source/repos/Chess/Content/../../../../Downloads/blackBishop.png</File>
+    <File>C:/Users/Nikdi/source/repos/Chess/Content/../../../../Downloads/blackKing.png</File>
+    <File>C:/Users/Nikdi/source/repos/Chess/Content/../../../../Downloads/blackKnight.png</File>
+    <File>C:/Users/Nikdi/source/repos/Chess/Content/../../../../Downloads/blackPawn.png</File>
+    <File>C:/Users/Nikdi/source/repos/Chess/Content/../../../../Downloads/blackQueen.png</File>
+    <File>C:/Users/Nikdi/source/repos/Chess/Content/../../../../Downloads/blackRook.png</File>
+    <File>C:/Users/Nikdi/source/repos/Chess/Content/../../../../Downloads/whiteBishop.png</File>
+    <File>C:/Users/Nikdi/source/repos/Chess/Content/../../../../Downloads/whiteKing.png</File>
+    <File>C:/Users/Nikdi/source/repos/Chess/Content/../../../../Downloads/whiteKnight.png</File>
+    <File>C:/Users/Nikdi/source/repos/Chess/Content/../../../../Downloads/whiteQueen.png</File>
+    <File>C:/Users/Nikdi/source/repos/Chess/Content/../../../../Downloads/whiteRook.png</File>
+    <File>C:/Users/Nikdi/source/repos/Chess/Content/wPawn.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>blackBishop.png</File>
+    <File>blackKing.png</File>
+    <File>blackKnight.png</File>
+    <File>blackPawn.png</File>
+    <File>blackQueen.png</File>
+    <File>blackRook.png</File>
+    <File>whiteBishop.png</File>
+    <File>whiteKing.png</File>
+    <File>whiteKnight.png</File>
+    <File>whiteQueen.png</File>
+    <File>whiteRook.png</File>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

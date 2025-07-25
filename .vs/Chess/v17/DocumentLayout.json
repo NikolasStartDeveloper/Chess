@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikdi\\source\\repos\\Chess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97EB5CF0-D348-44B8-AB4E-8987AACA3517}|Chess.csproj|c:\\users\\nikdi\\source\\repos\\chess\\chessgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EB5CF0-D348-44B8-AB4E-8987AACA3517}|Chess.csproj|solutionrelative:chessgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EB5CF0-D348-44B8-AB4E-8987AACA3517}|Chess.csproj|c:\\users\\nikdi\\source\\repos\\chess\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EB5CF0-D348-44B8-AB4E-8987AACA3517}|Chess.csproj|solutionrelative:king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EB5CF0-D348-44B8-AB4E-8987AACA3517}|Chess.csproj|c:\\users\\nikdi\\source\\repos\\chess\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EB5CF0-D348-44B8-AB4E-8987AACA3517}|Chess.csproj|solutionrelative:queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EB5CF0-D348-44B8-AB4E-8987AACA3517}|Chess.csproj|c:\\users\\nikdi\\source\\repos\\chess\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EB5CF0-D348-44B8-AB4E-8987AACA3517}|Chess.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EB5CF0-D348-44B8-AB4E-8987AACA3517}|Chess.csproj|c:\\users\\nikdi\\source\\repos\\chess\\bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EB5CF0-D348-44B8-AB4E-8987AACA3517}|Chess.csproj|solutionrelative:bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EB5CF0-D348-44B8-AB4E-8987AACA3517}|Chess.csproj|c:\\users\\nikdi\\source\\repos\\chess\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EB5CF0-D348-44B8-AB4E-8987AACA3517}|Chess.csproj|solutionrelative:knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EB5CF0-D348-44B8-AB4E-8987AACA3517}|Chess.csproj|c:\\users\\nikdi\\source\\repos\\chess\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EB5CF0-D348-44B8-AB4E-8987AACA3517}|Chess.csproj|solutionrelative:rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EB5CF0-D348-44B8-AB4E-8987AACA3517}|Chess.csproj|c:\\users\\nikdi\\source\\repos\\chess\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EB5CF0-D348-44B8-AB4E-8987AACA3517}|Chess.csproj|solutionrelative:pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EB5CF0-D348-44B8-AB4E-8987AACA3517}|Chess.csproj|c:\\users\\nikdi\\source\\repos\\chess\\chesspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EB5CF0-D348-44B8-AB4E-8987AACA3517}|Chess.csproj|solutionrelative:chesspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EB5CF0-D348-44B8-AB4E-8987AACA3517}|Chess.csproj|c:\\users\\nikdi\\source\\repos\\chess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EB5CF0-D348-44B8-AB4E-8987AACA3517}|Chess.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EB5CF0-D348-44B8-AB4E-8987AACA3517}|Chess.csproj|c:\\users\\nikdi\\source\\repos\\chess\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EB5CF0-D348-44B8-AB4E-8987AACA3517}|Chess.csproj|solutionrelative:move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EB5CF0-D348-44B8-AB4E-8987AACA3517}|Chess.csproj|c:\\users\\nikdi\\source\\repos\\chess\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EB5CF0-D348-44B8-AB4E-8987AACA3517}|Chess.csproj|solutionrelative:board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EB5CF0-D348-44B8-AB4E-8987AACA3517}|Chess.csproj|c:\\users\\nikdi\\source\\repos\\chess\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EB5CF0-D348-44B8-AB4E-8987AACA3517}|Chess.csproj|solutionrelative:gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EB5CF0-D348-44B8-AB4E-8987AACA3517}|Chess.csproj|c:\\users\\nikdi\\source\\repos\\chess\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EB5CF0-D348-44B8-AB4E-8987AACA3517}|Chess.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 217,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "King.cs",
+              "DocumentMoniker": "C:\\Users\\Nikdi\\source\\repos\\Chess\\King.cs",
+              "RelativeDocumentMoniker": "King.cs",
+              "ToolTip": "C:\\Users\\Nikdi\\source\\repos\\Chess\\King.cs",
+              "RelativeToolTip": "King.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T17:41:52.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Queen.cs",
+              "DocumentMoniker": "C:\\Users\\Nikdi\\source\\repos\\Chess\\Queen.cs",
+              "RelativeDocumentMoniker": "Queen.cs",
+              "ToolTip": "C:\\Users\\Nikdi\\source\\repos\\Chess\\Queen.cs",
+              "RelativeToolTip": "Queen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T17:38:47.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\Users\\Nikdi\\source\\repos\\Chess\\Knight.cs",
+              "RelativeDocumentMoniker": "Knight.cs",
+              "ToolTip": "C:\\Users\\Nikdi\\source\\repos\\Chess\\Knight.cs",
+              "RelativeToolTip": "Knight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T17:11:12.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rook.cs",
+              "DocumentMoniker": "C:\\Users\\Nikdi\\source\\repos\\Chess\\Rook.cs",
+              "RelativeDocumentMoniker": "Rook.cs",
+              "ToolTip": "C:\\Users\\Nikdi\\source\\repos\\Chess\\Rook.cs",
+              "RelativeToolTip": "Rook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T16:42:10.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\Nikdi\\source\\repos\\Chess\\Game1.cs",
+              "RelativeDocumentMoniker": "Game1.cs",
+              "ToolTip": "C:\\Users\\Nikdi\\source\\repos\\Chess\\Game1.cs",
+              "RelativeToolTip": "Game1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:08:46.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChessGame.cs",
+              "DocumentMoniker": "C:\\Users\\Nikdi\\source\\repos\\Chess\\ChessGame.cs",
+              "RelativeDocumentMoniker": "ChessGame.cs",
+              "ToolTip": "C:\\Users\\Nikdi\\source\\repos\\Chess\\ChessGame.cs",
+              "RelativeToolTip": "ChessGame.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAwwF4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:20:54.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bishop.cs",
+              "DocumentMoniker": "C:\\Users\\Nikdi\\source\\repos\\Chess\\Bishop.cs",
+              "RelativeDocumentMoniker": "Bishop.cs",
+              "ToolTip": "C:\\Users\\Nikdi\\source\\repos\\Chess\\Bishop.cs",
+              "RelativeToolTip": "Bishop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T17:22:55.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pawn.cs",
+              "DocumentMoniker": "C:\\Users\\Nikdi\\source\\repos\\Chess\\Pawn.cs",
+              "RelativeDocumentMoniker": "Pawn.cs",
+              "ToolTip": "C:\\Users\\Nikdi\\source\\repos\\Chess\\Pawn.cs",
+              "RelativeToolTip": "Pawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:23:00.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChessPiece.cs",
+              "DocumentMoniker": "C:\\Users\\Nikdi\\source\\repos\\Chess\\ChessPiece.cs",
+              "RelativeDocumentMoniker": "ChessPiece.cs",
+              "ToolTip": "C:\\Users\\Nikdi\\source\\repos\\Chess\\ChessPiece.cs",
+              "RelativeToolTip": "ChessPiece.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:21:53.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\Users\\Nikdi\\source\\repos\\Chess\\Move.cs",
+              "RelativeDocumentMoniker": "Move.cs",
+              "ToolTip": "C:\\Users\\Nikdi\\source\\repos\\Chess\\Move.cs",
+              "RelativeToolTip": "Move.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:22:23.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikdi\\source\\repos\\Chess\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Nikdi\\source\\repos\\Chess\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:08:42.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Nikdi\\source\\repos\\Chess\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\Nikdi\\source\\repos\\Chess\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:22:40.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\Nikdi\\source\\repos\\Chess\\GameState.cs",
+              "RelativeDocumentMoniker": "GameState.cs",
+              "ToolTip": "C:\\Users\\Nikdi\\source\\repos\\Chess\\GameState.cs",
+              "RelativeToolTip": "GameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:23:02.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\Nikdi\\source\\repos\\Chess\\Board.cs",
+              "RelativeDocumentMoniker": "Board.cs",
+              "ToolTip": "C:\\Users\\Nikdi\\source\\repos\\Chess\\Board.cs",
+              "RelativeToolTip": "Board.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:21:23.095Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
